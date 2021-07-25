@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 miana.
 Kolejna zmiana.
+=======
+>>>>>>> parent of 531c363 ("Drugi commit - zmiana")
